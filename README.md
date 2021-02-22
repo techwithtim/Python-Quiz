@@ -3,5 +3,5 @@
 
 
 <br><br><br><hr>
-<h6 align="center">techwithintim © 2021 <br>
+<h6 align="center">techwithtim © 2021 <br>
 All rights reserved </h6>
