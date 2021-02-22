@@ -15,3 +15,7 @@ Exercises for Python beginners
 Future
 
 1. [Numpy exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+
+<br><br><br><hr>
+<h6 align="center">techwithintim © 2021 <br>
+All rights reserved </h6>
