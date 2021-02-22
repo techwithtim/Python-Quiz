@@ -1,5 +1,3 @@
-# Python Self Assessment
-
 def q1():
 	print("hello" * 5)
 
